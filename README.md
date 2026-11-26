@@ -19,7 +19,7 @@
 
 ## 📦 下载安装
 
-1. 在 [Releases](https://github.com/ovoking999/chaoxingxxt/releases) 页下载 `study-assistant-v12.apk`（约 350 MB）
+1. 在 [Releases](https://github.com/ovoking999/chaoxingxxt/releases) 页下载 `study-assistant-v17.apk`（约 430 MB，加固版）
 2. **先卸载旧版**（不同版本签名互不兼容，直接覆盖会失败）
 3. 安装下载的 apk
 4. 打开学习通 → 底部「学习助手」入口 → 输入卡密激活
